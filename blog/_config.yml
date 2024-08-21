@@ -21,7 +21,7 @@
 title: My AI & Big Data Blog
 email: rmtariq@gmail.com
 description: "Welcome to my blog where I share insights on AI, Big Data, and the latest trends in analytics. Stay tuned for updates!"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rmtariq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
